@@ -3,21 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiqaiser&label=Profile%20views&color=0e75b6&style=flat" alt="hadiqaiser" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadiqaiser" alt="hadiqaiser" /></a> </p>
-
 - 🔭 I’m currently working on [The Purple Carrot](https://www.purplecarrot.com/)
 
 - 🌱 I’m currently learning **Nuxt.js, Ember.js, Web3**
 
-- 👨‍💻 All of my projects are available at [REMOVE LINE](REMOVE LINE)
-
-- 📝 I regularly write articles on [REMOVE LINE](REMOVE LINE)
-
 - 💬 Ask me about **React, Node, Rails**
 
 - 📫 How to reach me **hadiqaiser1996@gmail.com**
-
-- 📄 Know about my experiences [REMOVE LINE](REMOVE LINE)
 
 - ⚡ Fun fact **REMOVE LINE**
 
